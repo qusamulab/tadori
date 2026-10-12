@@ -46,7 +46,7 @@ tadori scan app.apk
 From source:
 
 ```bash
-git clone https://github.com/ykus4/tadori.git
+git clone https://github.com/qusamulab/tadori.git
 cd tadori
 uv sync
 uv run tadori scan app.apk
@@ -55,7 +55,7 @@ uv run tadori scan app.apk
 In CI, as a GitHub Action:
 
 ```yaml
-- uses: ykus4/tadori@v0
+- uses: qusamulab/tadori@v0
   with:
     apk: app/build/outputs/apk/release/app-release.apk
     baseline: baseline.json          # optional: also run `tadori diff`
