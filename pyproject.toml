@@ -33,9 +33,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ykus4/tadori"
-Documentation = "https://ykus4.github.io/tadori"
-Issues = "https://github.com/ykus4/tadori/issues"
+Homepage = "https://github.com/qusamulab/tadori"
+Documentation = "https://qusamulab.github.io/tadori"
+Issues = "https://github.com/qusamulab/tadori/issues"
 
 [project.scripts]
 tadori = "tadori.cli:cli"

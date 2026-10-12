@@ -305,7 +305,7 @@ def to_sarif(result: ScanResult) -> dict[str, Any]:
                     "driver": {
                         "name": "tadori",
                         "version": __version__,
-                        "informationUri": "https://github.com/ykus4/tadori",
+                        "informationUri": "https://github.com/qusamulab/tadori",
                         "rules": rules,
                     }
                 },

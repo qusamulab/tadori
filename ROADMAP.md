@@ -31,8 +31,8 @@ diagnosis for a rule that did not fire.
 
 ## Not planned
 
-- Dynamic analysis. Use [`enma`](https://github.com/ykus4/enma) (Frida) or
-  [`shingan`](https://github.com/ykus4/shingan) (which covers the *defensive* side:
+- Dynamic analysis. Use [`enma`](https://github.com/qusamulab/enma) (Frida) or
+  [`shingan`](https://github.com/qusamulab/shingan) (which covers the *defensive* side:
   auditing your own app against OWASP MASVS).
 - A malware/benign classifier. tadori reports capability and exposure; the verdict is the
   analyst's.

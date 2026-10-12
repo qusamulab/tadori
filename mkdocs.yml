@@ -1,8 +1,8 @@
 site_name: tadori
 site_description: Entry-point-aware capability detection for Android APKs
-site_url: https://ykus4.github.io/tadori
-repo_url: https://github.com/ykus4/tadori
-repo_name: ykus4/tadori
+site_url: https://qusamulab.github.io/tadori
+repo_url: https://github.com/qusamulab/tadori
+repo_name: qusamulab/tadori
 edit_uri: edit/main/docs/
 
 theme:
